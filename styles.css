@@ -1,0 +1,11 @@
+li {
+  width: 350px;
+  margin: auto;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  text-align: center;
+}
